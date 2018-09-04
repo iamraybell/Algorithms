@@ -1,4 +1,4 @@
-//Write and Alogirthm such that if an element is an MxN Matrix is 0, the entire row and column are zero. 
+//Write and Algorithm such that if an element is an MxN Matrix is 0, the entire row and column are zero. 
 
 var matrix = [
 	[0,1,1,1,1],
