@@ -1,3 +1,5 @@
+//problem 3.3 in Cracking the coding intervierw book.
+
 class SetOfStacks{
 	constructor(maxSize=5){
 		this.maxSize = 5;
